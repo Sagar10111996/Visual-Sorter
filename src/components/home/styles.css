@@ -1,0 +1,32 @@
+.App {
+    text-align: center;
+  }
+  
+.array-container {
+display: flex;
+justify-content: center;
+align-items: flex-end;
+width: 100%;
+margin-top: 5%;
+}
+
+.array-bar {
+background-color: #61dafb;
+margin: 0 1px;
+width: 0.75rem;
+}
+
+button {
+margin-top: 20px;
+padding: 10px 20px;
+font-size: 18px;
+}
+
+.highlight {
+    background-color: yellow;
+}
+  
+.highlight-index {
+background-color: orange;
+}
+  
